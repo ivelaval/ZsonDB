@@ -1,0 +1,1 @@
+{"config":{"name":"config","fields":{"id":{"index":"primary","autoincrement":1,"type":"integer"},"name":{"type":"string"},"email":{"type":"string"},"date":{"type":"string"}},"autoincrement":0}}

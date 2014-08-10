@@ -1,0 +1,1 @@
+{"user":{"name":"user","fields":{"id":{"index":"primary","autoincrement":1,"type":"integer"},"name":{"type":"string"},"email":{"type":"string","index":"unique"},"age":{"type":"string"}},"autoincrement":0}}
